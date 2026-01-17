@@ -4,17 +4,16 @@ class Solution {
 
         for (int i = 0; i < nums.length; i++){
             if (nums[i] != val){
+                nums[l] = nums[i];
                 l++;
             }
-            if (nums[i] == val){
-                nums[i] = 100;
-            }
+            
 
             
             
         }
 
-        Arrays.sort(nums);
+        
 
         return l;
     }
