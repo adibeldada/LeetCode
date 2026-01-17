@@ -1,29 +1,24 @@
 class Solution {
     public int removeDuplicates(int[] nums) {
-        Set<Integer> set = new LinkedHashSet<>();
+        int n = nums.length;
+
+        for (int i = 0; i < n - 1; i++) {
+            int j = i + 1;
+            while (j < n && nums[j] == nums[i]) {
+                nums[j] = 333; 
+                j++;
+            }
+        }
+
         int l = 0;
 
-        for (int i = 0; i < nums.length; i++){
-            set.add(nums[i]);
+        Arrays.sort(nums); 
+
+        for (int j = 0; j < n; j++) {
+            if (nums[j] != 333) {
+                l++;
+            }
         }
-
-
-        Iterator<Integer> it = set.iterator();
-
-        while (it.hasNext()) {
-            Integer val = it.next();
-            nums[l] = val;
-            l++;
-        }
-
-
-        for (int j = l; j < nums.length; j++){
-            nums[j] = '_';
-        }
-        
-        
-
-        
 
         return l;
     }
