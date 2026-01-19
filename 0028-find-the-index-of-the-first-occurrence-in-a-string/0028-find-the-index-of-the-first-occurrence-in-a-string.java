@@ -2,7 +2,6 @@ class Solution {
     public int strStr(String haystack, String needle) {
         for (int i = 0; i < haystack.length(); i++) {
         
-        // SAFETY CHECK: If the needle can't fit starting at i, stop.
         if (i + needle.length() > haystack.length()) {
             break; 
         }
