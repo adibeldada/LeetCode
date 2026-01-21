@@ -49,4 +49,5 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/adibeldada/LeetCode/tree/master/0066-plus-one) |
+| [2469-convert-the-temperature](https://github.com/adibeldada/LeetCode/tree/master/2469-convert-the-temperature) |
 <!---LeetCode Topics End-->
