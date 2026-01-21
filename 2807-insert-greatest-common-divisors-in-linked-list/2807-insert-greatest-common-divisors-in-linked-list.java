@@ -13,22 +13,7 @@ class Solution {
         ListNode first = head;
         
         while (head.next != null){
-            int greatest;
-            if (head.val > head.next.val){
-                greatest = head.val;
-            } else {
-                greatest = head.next.val;
-            }
-            int gcd =1;
-
-            for (int i = greatest; i >= 1; i-- ){
-                if (head.val  % i == 0 && head.next.val % i == 0){
-                    gcd = i;
-                    break;
-                }
-                continue;
-
-            }
+            int gcd = getGCD(head.val, head.next.val);
             ListNode newNode = new ListNode(gcd);
             ListNode temp = head.next;
             newNode.next = temp;
@@ -37,5 +22,14 @@ class Solution {
         }
         
         return first;
+    }
+
+    private int getGCD(int a, int b) {
+        while (b != 0) {
+            int temp = b;
+            b = a % b;
+            a = temp;
+        }
+        return a;
     }
 }
