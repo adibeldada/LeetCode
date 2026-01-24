@@ -53,6 +53,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/adibeldada/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/adibeldada/LeetCode/tree/master/0069-sqrtx) |
+| [2235-add-two-integers](https://github.com/adibeldada/LeetCode/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/adibeldada/LeetCode/tree/master/2469-convert-the-temperature) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/adibeldada/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Number Theory
