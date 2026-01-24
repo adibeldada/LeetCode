@@ -27,6 +27,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/adibeldada/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/adibeldada/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/adibeldada/LeetCode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
 |  |
