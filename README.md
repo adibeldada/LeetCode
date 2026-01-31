@@ -18,6 +18,7 @@
 | [0020-valid-parentheses](https://github.com/adibeldada/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adibeldada/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/adibeldada/LeetCode/tree/master/0058-length-of-last-word) |
+| [0771-jewels-and-stones](https://github.com/adibeldada/LeetCode/tree/master/0771-jewels-and-stones) |
 | [3110-score-of-a-string](https://github.com/adibeldada/LeetCode/tree/master/3110-score-of-a-string) |
 ## Trie
 |  |
@@ -75,4 +76,8 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/adibeldada/LeetCode/tree/master/0136-single-number) |
+## Hash Table
+|  |
+| ------- |
+| [0771-jewels-and-stones](https://github.com/adibeldada/LeetCode/tree/master/0771-jewels-and-stones) |
 <!---LeetCode Topics End-->
