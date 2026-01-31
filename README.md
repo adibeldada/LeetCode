@@ -11,6 +11,7 @@
 | [0088-merge-sorted-array](https://github.com/adibeldada/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/adibeldada/LeetCode/tree/master/0136-single-number) |
 | [0704-binary-search](https://github.com/adibeldada/LeetCode/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/adibeldada/LeetCode/tree/master/0724-find-pivot-index) |
 ## String
 |  |
 | ------- |
@@ -80,4 +81,8 @@
 |  |
 | ------- |
 | [0771-jewels-and-stones](https://github.com/adibeldada/LeetCode/tree/master/0771-jewels-and-stones) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/adibeldada/LeetCode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
