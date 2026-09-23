@@ -49,6 +49,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/adibeldada/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/adibeldada/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/adibeldada/LeetCode/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/adibeldada/LeetCode/tree/master/0202-happy-number) |
 ## String Matching
 |  |
 | ------- |
@@ -64,6 +65,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/adibeldada/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/adibeldada/LeetCode/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/adibeldada/LeetCode/tree/master/0202-happy-number) |
 | [2235-add-two-integers](https://github.com/adibeldada/LeetCode/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/adibeldada/LeetCode/tree/master/2469-convert-the-temperature) |
 | [2769-find-the-maximum-achievable-number](https://github.com/adibeldada/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
@@ -85,6 +87,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/adibeldada/LeetCode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/adibeldada/LeetCode/tree/master/0202-happy-number) |
 | [0771-jewels-and-stones](https://github.com/adibeldada/LeetCode/tree/master/0771-jewels-and-stones) |
 ## Prefix Sum
 |  |
@@ -102,4 +105,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/adibeldada/LeetCode/tree/master/0169-majority-element) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/adibeldada/LeetCode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
